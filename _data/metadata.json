@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "Bloggy",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "This is a blog description",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about stuff",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,9 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Dev X",
     "email": "youremailaddress@example.com",
     "url": "https://example.com/about-me/"
+    
   }
 }

@@ -1,8 +1,8 @@
 {
-  "title": "Bloggy",
+  "title": "Dave's New Blog",
   "url": "https://example.com/",
   "language": "en",
-  "description": "This is a blog description",
+  "description": "A Blog to showcase some of my projects",
   "feed": {
     "subtitle": "I am writing about stuff",
     "filename": "feed.xml",
